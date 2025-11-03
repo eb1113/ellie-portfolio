@@ -31,7 +31,9 @@ Spatial reasoning and performance comparison
 
 Visualization using the Bridges API
 
-### Frognition (A Children's Math Game)
+### Frognition (A Children's Math Game) 
+
+**Link:** https://github.com/cmpt322-2025sp/project-four-loopers
 
 #### Project Summary
 
