@@ -5,7 +5,7 @@ This portfolio showcases selected projects from my coursework and independent wo
 
 **LinkedIn:** https://www.linkedin.com/in/ellie-berg/
 
-**Resume:** 
+**Resume:** [View my Resume (PDF)](Ellie-Resume.pdf)
 
 ## Featured Projects
 ### Shortest Path
