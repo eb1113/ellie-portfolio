@@ -11,6 +11,7 @@ This portfolio showcases selected projects from my coursework and independent wo
 ### Shortest Path
 #### Project Summary
 
+##### Examples of Output in Slides: [Click to View Slides](https://docs.google.com/presentation/d/1CoEx2BgrJTtOb3KME7fYkJld2nNjKzHJYSFDFc7Kmx8/edit?usp=sharing)
 This project implements both Dijkstra’s and A* search algorithms to find the shortest paths between points in real world city road networks. The program uses map data from the Bridges API to model roads as weighted graphs, where each node represents an intersection and edges represent distances between them.
 
 By comparing the performance and output of the two algorithms, the project visualizes how city design and road connectivity affect travel efficiency. The visualization highlights areas where city layouts lead to inefficient or indirect routes.
